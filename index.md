@@ -17,4 +17,16 @@ Want to see the latest video from Cheez Headquarters? Look no further, enjoy the
 
 See if Cheez Headquarters is live to the Cheez Nation, with Cheez Entertainment block!
 
-<iframe src="https://player.twitch.tv/?channel=cheeznationblehh" parent="https://cheeznation.cfd" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<script src= "https://player.twitch.tv/js/embed/v1.js"></script>
+<div id="gongle"></div>
+<script type="text/javascript">
+  var options = {
+    width: 560,
+    height: 315,
+    channel: "cheeznationblehh",
+    // only needed if your site is also embedded on embed.example.com and othersite.example.com
+    parent: ["cheeznation.cfd", "cheeznation.github.io"]
+  };
+  var player = new Twitch.Player("gongle", options);
+  player.setVolume(0.5);
+</script>
