@@ -42,6 +42,4 @@ See if Cheez Headquarters is live to the Cheez Nation, with Cheez Entertainment 
 </ul>
 # CHEEZ TWEETS
 
-
-
-<button type="button">The tweets :eyes:!</button>
+[Tweets :eyes:](https://cheeznation.cfd/Tweets/)
