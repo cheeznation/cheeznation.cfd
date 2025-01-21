@@ -30,6 +30,8 @@ See if Cheez Headquarters is live to the Cheez Nation, with Cheez Entertainment 
   var player = new Twitch.Player("gongle", options);
   player.setVolume(0.5);
 </script>
+# CHAT WITH OTHER CHEEZ NATION FANS
+[Click here](https://cheeznation.cfd/IRC/)
 
 # READ THE CHEEZ BLOG
 
