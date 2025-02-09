@@ -1,3 +1,9 @@
+<audio controls autoplay>
+  <source src="The Cooking Channel.ogg" type="audio/ogg">
+  <source src="The Cooking Channel.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 # Cheez Nation
 # Your source for Cheez News, Cheez Videos, Cheez Streams and more
 
@@ -45,3 +51,4 @@ See if Cheez Headquarters is live to the Cheez Nation, with Cheez Entertainment 
 # CHEEZ TWEETS
 
 [Tweets :eyes:](https://cheeznation.cfd/Tweets/)
+
