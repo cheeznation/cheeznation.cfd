@@ -1,5 +1,5 @@
-This is the repo for Cheez Nation website what are you doing here GET OUT!!!! 
+Repo for Cheez Nation website
 
 
-
-Or look inside!
+Most of the stuff is done by Kit
+I just added stuff - CHeez
